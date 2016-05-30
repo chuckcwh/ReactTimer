@@ -1,6 +1,6 @@
-# React Boilerplate 2
+# React Timer App
 
-My basic settings of react.
+A simple timer app.
 
 # Include:
 
